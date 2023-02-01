@@ -1,0 +1,234 @@
+#container{
+    height: 500px;
+    width: 800px;
+    top: 200px;
+    position: relative;
+    float: left;
+    margin-left: 22%;
+    background-color: red;
+
+}
+#circle {
+    margin-top: 168px;
+    margin-left: 6px;
+    transform: rotate(-272deg);
+    width: 336px;
+    height: 336px;
+    shape-outside: circle(50% at 30%);
+    clip-path: circle(50% at 0%);
+    background: blue;
+    
+  }
+  #circulo{
+    background-color: red;
+    border-radius: 170px;
+    height: 336px;
+    width: 336px;
+    top: 350px;
+    position: relative;
+    float: left;
+    left: -730px;
+    margin-left: 22px;
+  }
+  #circulorojo{
+    background-color: red;
+    border-radius: 200px;
+    height: 180px;
+    width: 176px;
+    top: 157px;
+    position: relative;
+    float: left;
+    left: -107px;
+    margin-left: 2px;
+  }
+  #circuloAzul{
+    background-color: blue;
+    border-radius: 218px;
+    height: 161px;
+    width: 1161px;
+    top: -181px;
+    position: relative;
+    float: left;
+    left: -107px;
+    margin-left: 2px;
+  }
+  #rectaculosOs1{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -540px;
+    position: relative;
+    float: left;
+    left: -337px;
+    margin-left: 2px;
+    transform: rotate(130deg);
+  }
+  #rectaculosOs2{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -540px;
+    position: relative;
+    float: left;
+    left: -303px;
+    margin-left: 2px;
+    transform: rotate(130deg);
+  }
+  #rectaculosOs3{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -540px;
+    position: relative;
+    float: left;
+    left: -272px;
+    margin-left: 2px;
+    transform: rotate(130deg);
+  }
+
+  #rectaculosOs4{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -229px;
+    position: relative;
+    float: left;
+    left: -344px;
+    margin-left: 2px;
+    transform: rotate(51deg);
+  }
+  #rectaculosOs5{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -283px;
+    position: relative;
+    float: left;
+    left: -306px;
+    margin-left: 2px;
+    transform: rotate(51deg);
+  }
+  #rectaculosOs6{
+    background-color:white;
+    height: 30px;
+    width: 44px;
+    top: -283px;
+    position: relative;
+    float: left;
+    left: -415px;
+    margin-left: 2px;
+    transform: rotate(142deg);
+  }
+  #rectaculosOs7{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -341px;
+    position: relative;
+    float: left;
+    left: -265px;
+    margin-left: 2px;
+    transform: rotate(51deg);
+  }
+  #rectaculosOs8{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -320px;
+    position: relative;
+    float: left;
+    left: 496px;
+    margin-left: 2px;
+    transform: rotate(-51deg);
+  }
+  #rectaculosOs9{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -385px;
+    position: relative;
+    float: left;
+    left: 458px;
+    margin-left: 2px;
+    transform: rotate(-51deg);
+  }
+  #rectaculosOs10{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -451px;
+    position: relative;
+    float: left;
+    left: 418px;
+    margin-left: 2px;
+    transform: rotate(-51deg);
+  }
+  #rectaculosOs11{
+    background-color:white;
+    height: 30px;
+    width: 171px;
+    top: -439px;
+    position: relative;
+    float: left;
+    left: 464px;
+    margin-left: 2px;
+    transform: rotate(38deg);
+  }
+  #rectaculosOs12{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -861px;
+    position: relative;
+    float: left;
+    left: 500px;
+    margin-left: 2px;
+    transform: rotate(47deg);
+  }
+  #rectaculosOs13{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -861px;
+    position: relative;
+    float: left;
+    left: 464px;
+    margin-left: 2px;
+    transform: rotate(47deg);
+  }
+  #rectaculosOs14{
+    background-color:black;
+    height: 30px;
+    width: 171px;
+    top: -861px;
+    position: relative;
+    float: left;
+    left: 430px;
+    margin-left: 2px;
+    transform: rotate(47deg);
+  }
+  #rectaculosOs15{
+    background-color:white;
+    height: 38px;
+    width: 36px;
+    top: -921px;
+    position: relative;
+    float: left;
+    left: 395px;
+    margin-left: 2px;
+    transform: rotate(47deg);
+  }
+  #rectaculosOs16{
+    background-color:white;
+    height: 38px;
+    width: 36px;
+    top: -860px;
+    position: relative;
+    float: left;
+    left: 292px;
+    margin-left: 2px;
+    transform: rotate(47deg);
+  }
+
+
+
